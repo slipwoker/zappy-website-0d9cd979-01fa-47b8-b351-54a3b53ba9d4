@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-0d9cd979.zappy5.app
+https://example.com
 ברוכים הבאים לסקווישי לנד, החנות המובילה לצעצועי סקווישי מכל הצורות והעיצובים! תהנו ממגוון ענק, מחירים שווים לכל כיס וחוויית משחק טקטילית שתשמח ילדים ומבוגרים. היכנסו עכשיו וגלו את הקסם!
 
 ### אודות
-https://-0d9cd979.zappy5.app/about
+https://example.com/about
 הכירו את סקווישי לנד – מותג ישראלי שנולד מתוך תשוקה לצעצועים רכים וממכרים. אנחנו מביאים לכם את הסקווישי האיכותיים ביותר, עם דגש על עיצוב, כיף ומחירים הוגנים. הצטרפו למסע הטקטילי שלנו!
 
 ### רעיונות למתנות
-https://-0d9cd979.zappy5.app/gift-ideas
+https://example.com/gift-ideas
 מחפשים מתנה מושלמת? גלו רעיונות יצירתיים למתנות סקווישי לילדים שיכניסו צבע ושמחה לכל אירוע. מאריזות הפתעה ועד קולקציות מיוחדות – כל מה שצריך כדי לרגש באמת. התחילו לבחור עכשיו!
 
 ### שאלות נפוצות
-https://-0d9cd979.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על צעצועי סקווישי? ריכזנו עבורכם תשובות לשאלות נפוצות על חומרים, ניקוי, התאמה לגילאים ומשלוחים. קבלו את כל המידע החיוני במקום אחד וחזרו לשחק בראש שקט!
 
 ### צור קשר
-https://-0d9cd979.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת סקווישי או סתם רוצים להגיד היי? צרו קשר עם צוות סקווישי לנד – אנחנו זמינים בוואטסאפ, במייל ובטלפון לכל שאלה, בקשה או רעיון. נשמח לשמוע מכם במהרה!
 
 ### Products
-https://-0d9cd979.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - סקווישי לנד
 
 ### Cart
-https://-0d9cd979.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-0d9cd979.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-0d9cd979.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-0d9cd979.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-0d9cd979.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-0d9cd979.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - סקווישי לנד
 
 ### Category
-https://-0d9cd979.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - סקווישי לנד
 
 ### תודה שפניתם אלינו | סקווישי לנד
-https://-0d9cd979.zappy5.app/thank-you
+https://example.com/thank-you
 סקווישי לנד - תודה שפניתם אלינו | סקווישי לנד
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-0d9cd979.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-0d9cd979.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-0d9cd979.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-0d9cd979.zappy5.app/sitemap.xml
-- Robots: https://-0d9cd979.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-0d9cd979.zappy5.app/llms-full.txt
-- Products (JSON): https://-0d9cd979.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-0d9cd979.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
